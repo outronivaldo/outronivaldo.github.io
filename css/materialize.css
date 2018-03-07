@@ -1,7 +1,7 @@
 /*!
  * Materialize v0.100.2 (http://materializecss.com)
  * Copyright 2014-2017 Materialize
- * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE).
+ * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
  */
 .materialize-red {
   background-color: #e51c23 !important;
@@ -980,7 +980,7 @@
 }
 
 .teal {
-  background-color: #212121 !important;
+  background-color: #424242 !important;
 }
 
 .teal-text {
