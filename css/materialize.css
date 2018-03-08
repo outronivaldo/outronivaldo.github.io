@@ -3383,6 +3383,7 @@ nav ul a span.badge {
   }
 }
 
+
 .container .row {
   margin-left: -0.75rem;
   margin-right: -0.75rem;
@@ -6594,12 +6595,12 @@ textarea.materialize-textarea.validate + label:not(.label-icon).active {
 [type="radio"]:checked + label:after,
 [type="radio"].with-gap:checked + label:before,
 [type="radio"].with-gap:checked + label:after {
-  border: 2px solid #424242;
+  border: 2px solid #ffffff;
 }
 
 [type="radio"]:checked + label:after,
 [type="radio"].with-gap:checked + label:after {
-  background-color: #424242;
+  background-color: #ffffff;
 }
 
 [type="radio"]:checked + label:after {
